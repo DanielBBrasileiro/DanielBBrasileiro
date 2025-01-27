@@ -14,8 +14,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** with expertise in **Pyth
   <img align="center" alt="Daniel-Tableau" height="70" width="70" src="https://www.svgrepo.com/show/354427/tableau.svg" style="margin-left: 100px;">   
 </div>
   
-  
-          
+![snake animation](https://github.com/DanielBBrasileiro/DanielBBrasileiro/blob/main/.github/workflows/cobrinha.yml)
           
   
 </div>
