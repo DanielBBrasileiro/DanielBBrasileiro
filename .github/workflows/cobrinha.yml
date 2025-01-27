@@ -1,8 +1,8 @@
 name: Generate snake game
 
 on:
-  schedule: #execute every 12 hours
-    - cron: "0 */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: Platane/snk@master
         with:
-          github_user_name: DanielBBrasileiro
-          svg_out_path: dist/github-snake.svg
+          github_user_name: DanielBBrasileiro 
+          svg_out_path: dist/github-snake.svg 
+          gif_size: '512x512' # Adiciona a geração do GIF
+          gif_speed: 10 # Define a velocidade da animação 
+          generate_gif: true # Habilita a geração do GIF
           snake_color: 'blue'
