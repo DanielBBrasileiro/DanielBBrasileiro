@@ -64,18 +64,9 @@ I organize my stack by function to demonstrate architectural understanding.
 
 ---
 
-### 📊 **GitHub Activity**
+### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielBBrasileiro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBBrasileiro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" height="180" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBBrasileiro&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF8000&currStreakNum=F0F6FC&currStreakLabel=58A6FF&sideNum=8B949E&sideLabel=8B949E" alt="streak graph" />
-</div>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DanielBBrasileiro&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF8000&currStreakNum=F0F6FC&currStreakLabel=58A6FF&sideNum=8B949E&sideLabel=8B949E)
 
 ---
 
