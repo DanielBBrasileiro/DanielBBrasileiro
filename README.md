@@ -1,77 +1,84 @@
-# 💡 Data Analyst Portfolio  
-🚀 **Transforming data into insights, one dataset at a time.**  
-
-Welcome to my GitHub! I'm a passionate **Data Analyst** with expertise in **Python**, **SQL**, **Power BI**, **Tableau**, and an unshakable enthusiasm for **Big Data**. My mission is to analyze, visualize, and optimize data to empower decision-making and drive impactful business results.
-
----
-
-## 📊 About Me  <div style="display: inline_block"><br>
-<div class="icon-container">
-  <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Daniel-SQL (Azure)" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Daniel-Power BI" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png?20210102182532" style="margin-left: 100px;">
-  <img align="center" alt="Daniel-Matplotlib" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-  <img align="center" alt="Daniel-Tableau" height="70" width="70" src="https://www.svgrepo.com/show/354427/tableau.svg" style="margin-left: 100px;">   
-</div>
-  
-          
-  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Data+Engineer+in+Training;Building+Scalable+Pipelines;Automating+Etl+Processes;Python+%26+SQL+Specialist" alt="Typing SVG" />
 </div>
 
-I specialize in:  
-- 📌 **Data Analysis & Visualization**: Turning complex datasets into actionable insights using Python, Tableau, and Power BI.  
-- 🛠️ **SQL Expertise**: Crafting optimized queries for data extraction, manipulation, and management.  
-- 🌐 **Big Data**: Enthusiastically exploring large-scale data and uncovering trends that make a difference.  
-- 🧩 **Business Intelligence**: Developing dashboards and solutions that align with strategic goals.  
-
-💻 I'm constantly learning and applying new techniques to stay at the forefront of data analytics and technology.
-
----
-
-## 🔧 Technologies & Tools  
-
-<div> 
-  <a href="https://www.instagram.com/danielbarbosabrasileiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:danielbarbosabrasileiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="hwww.linkedin.com/in/daniel-barbosa-804947232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div align="center">
+  <a href="https://www.linkedin.com/in/daniel-barbosa-804947232">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:danielbarbosabrasileiro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+   <a href="https://github.com/DanielBBrasileiro/cnpj-analytics-pipeline">
+    <img src="https://img.shields.io/badge/Focus-100%20Days%20of%20Code-orange?style=for-the-badge&logo=fire" />
+  </a>
 </div>
 
-
-| **Category**       | **Tools & Skills**                                            |
-|---------------------|-------------------------------------------------------------|
-| Programming         | Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)         |
-| Query Languages     | SQL (Oracle, MySQL, PostgreSQL, SQL Server)                         |
-| Data Visualization  | Power BI, Tableau, Matplotlib, Seaborn                      |
-| Version Control     | Git, GitHub                                                 |
+<br />
 
 ---
 
-## 📁 Featured Projects  
+### **About Me**
 
-(loading)
+I am a data professional transitioning from **Data Analysis** to **Data Engineering**. My background in extracting insights gives me a unique perspective: I build pipelines not just to move data, but to ensure it arrives **clean, reliable, and ready for business impact**.
 
----
+Currently, I am focused on mastering the **Modern Data Stack** (MDS), implementing **Data Lakehouses**, and adhering to software engineering best practices like CI/CD and containerization.
 
-## 🌟 Let's Connect  
-
-🌍 I'm open to collaborating on data analytics, business intelligence, and visualization projects! Feel free to reach out via:  
-- **LinkedIn**: www.linkedin.com/in/daniel-barbosa-804947232
-- **Email**: danielbarbosabrasileiro@gmail.com
-
-🤝 Together, we can turn data into **game-changing insights**!  
+> 🔭 **Current Focus:** Architecting a scalable ETL pipeline for Brazilian Corporate Data (CNPJ) processing terabytes of public information using **Spark**, **Docker**, and **MinIO**.
 
 ---
 
-### ✨ Fun Fact  
-When I'm not crunching numbers, I enjoy exploring music and sports.
+### **The "100 Days of Code" Challenge**
+
+I have publicly committed to coding every single day to accelerate my transition to Data Engineering.
+
+| Current Project | Stack | Status |
+| :--- | :--- | :--- |
+| **CNPJ Analytics Pipeline** | Python, Docker, MinIO, PostgreSQL, dbt | 🚧 **In Progress (Building Architecture)** |
+
+> *Check my daily progress and code commits in my repositories!*
 
 ---
 
-### 🚀 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+### **Technical Arsenal**
+
+I organize my stack by function to demonstrate architectural understanding.
+
+<div align="center">
+
+| **Core & Compute** | **Infrastructure & Storage** | **Orchestration & Transformation** | **Visualization** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) |
+
+</div>
 
 ---
 
-#### ⚡ _"Data is the new oil, and analytics is the refinery."_  
+### **Engineering Philosophy**
+
+* **Automation First:** If I have to do it twice, I write a script. If I do it thrice, I build a pipeline.
+* **Data Quality:** Garbage in, garbage out. I prioritize schema validation (Pydantic/Great Expectations) at the ingestion layer.
+* **Documentation:** Code tells you *how*, documentation tells you *why*. I write "READMEs for humans".
+
+---
+
+### 📊 **GitHub Activity**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielBBrasileiro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBBrasileiro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBBrasileiro&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF8000&currStreakNum=F0F6FC&currStreakLabel=58A6FF&sideNum=8B949E&sideLabel=8B949E" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
+</div>
