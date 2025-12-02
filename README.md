@@ -67,7 +67,7 @@ I organize my stack by function to demonstrate architectural understanding.
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBBrasileiro&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF8000&currStreakNum=F0F6FC&currStreakLabel=58A6FF&sideNum=8B949E&sideLabel=8B949E&timezone=America/Sao_Paulo" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBBrasileiro&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF8000&currStreakNum=F0F6FC&currStreakLabel=58A6FF&sideNum=8B949E&sideLabel=8B949E&timezone=America/Sao_Paulo&cache_bust=1" />
 </div>
 
 ---
