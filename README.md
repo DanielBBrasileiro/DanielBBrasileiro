@@ -58,13 +58,15 @@ I organize my stack by function to demonstrate architectural understanding.
 
 ### **Engineering Philosophy**
 
-* **Automation First:** If I have to do it twice, I write a script. If I do it thrice, I build a pipeline.
-* **Data Quality:** Garbage in, garbage out. I prioritize schema validation (Pydantic/Great Expectations) at the ingestion layer.
-* **Documentation:** Code tells you *how*, documentation tells you *why*. I write "READMEs for humans".
+Automation as a Baseline: Repetition is a signal. If I do it twice, I script it. If I do it a third time, I automate it end-to-end and turn it into a maintainable pipeline.
+
+Data Quality by Design: Data quality is not optional. I enforce validation at ingestion using tools like Pydantic and Great Expectations to ensure that every downstream system receives clean, trustworthy data.
+
+Documentation with Purpose: Code explains how things work; documentation explains why. I prioritize clear, human-friendly READMEs that accelerate onboarding and decision-making.
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBBrasileiro&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF8000&currStreakNum=F0F6FC&currStreakLabel=58A6FF&sideNum=8B949E&sideLabel=8B949E&timezone=America/Sao_Paulo&cache_bust=1" />
